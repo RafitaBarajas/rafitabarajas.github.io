@@ -21,7 +21,34 @@
 .bg-black {
 	background-color: #101010;
 }
+.bg-yellow {
+	background-color: #ffb600;
+}
 
 .text-yellow {
 	color: #ffb600 !important;
+}
+.text-black {
+	color: #101010 !important;
+}
+
+.icon-small {
+	font-size: 130%;
+}
+
+.icon-med {
+	font-size: 500%;
+}
+
+.color-whatsapp {
+	color: #3fbe4f !important;
+}
+.color-facebook {
+	color: #0e8cf1 !important;
+}
+.color-linkedin {
+	color: #0270ad !important;
+}
+.color-github {
+	color: #24292e !important;
 }
