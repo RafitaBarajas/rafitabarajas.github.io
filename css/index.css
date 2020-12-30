@@ -1,0 +1,27 @@
+.row-content {
+	margin: 0px auto;
+	padding: 50px 0px 50px 0px;
+	border-bottom: 1px ridge;
+	min-height: 400px;
+}
+
+.with-back-img {
+	background-image: url(../images/main-img.jpg);
+	background-size: cover;
+}
+
+.opaque-back {
+	background: rgba(0, 0, 0, 0.4);
+}
+
+.row {
+	--bs-gutter-x: 0px !important;
+}
+
+.bg-black {
+	background-color: #101010;
+}
+
+.text-yellow {
+	color: #ffb600 !important;
+}
