@@ -38,6 +38,15 @@
 .text-black {
 	color: #101010 !important;
 }
+.text-gray {
+	color: #777777 !important;
+}
+.text-flutter {
+	color: #40a0ee !important;
+}
+.text-vue {
+	color: #3fb27f !important;
+}
 
 .icon-small {
 	font-size: 130%;
