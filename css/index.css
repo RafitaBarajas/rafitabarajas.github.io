@@ -14,6 +14,12 @@
 	background-size: cover;
 }
 
+.image-border {
+	border-style: solid;
+	border-color: #ffb600 !important;
+	border-width: 8px;
+}
+
 .opaque-back {
 	background: rgba(0, 0, 0, 0.4);
 }
