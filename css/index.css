@@ -15,9 +15,9 @@
 }
 
 .image-border {
-	border-style: solid;
+	border-style: solid !important;
 	border-color: #ffb600 !important;
-	border-width: 8px;
+	border-width: 8px !important;
 }
 
 .opaque-back {
@@ -52,6 +52,18 @@
 }
 .text-vue {
 	color: #3fb27f !important;
+}
+.text-react {
+	color: #08d8fd !important;
+}
+.text-java {
+	color: #ed2025 !important;
+}
+.text-npm {
+	color: #c13534 !important;
+}
+.text-node {
+	color: #7cc327 !important;
 }
 
 .icon-small {
