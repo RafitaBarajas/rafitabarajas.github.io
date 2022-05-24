@@ -2,6 +2,15 @@
     background-color: #ffb600 !important;
 }
 
+.navbar-toggler:focus {
+	outline-color: #ffb600 !important;
+	box-shadow: 0px 0px 0 0.25rem #ffb600 !important;
+}
+
+.nav-btn { 
+	width: 100% !important;
+}
+
 .row-content {
 	margin: 0px auto;
 	padding: 50px 0px 50px 0px;
